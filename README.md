@@ -26,10 +26,6 @@ starting live capture. ([Download the demo](docs/demo.mp4))
 
 ![Desktop dashboard](img/desktop-deck.png)
 
-**Android app (new mobile UI)**
-
-<img src="img/mobile-dash.png" alt="Mobile dashboard" width="270">
-
 ## What it catches
 
 - HTTP form logins, GET-parameter credentials, Basic Auth, JSON and multipart logins
