@@ -28,7 +28,7 @@ starting live capture. ([Download the demo](docs/demo.mp4))
 
 **Android app (new mobile UI)**
 
-![Mobile dashboard](img/mobile-dash.png)
+<img src="img/mobile-dash.png" alt="Mobile dashboard" width="270">
 
 ## What it catches
 
