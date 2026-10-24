@@ -29,8 +29,6 @@ starting live capture. ([Download the demo](docs/demo.mp4))
 **Android app (new mobile UI)**
 
 ![Mobile dashboard](img/mobile-dash.png)
-![Mobile graph](img/mobile-graph.png)
-![Mobile credentials](img/mobile-creds.png)
 
 ## What it catches
 
