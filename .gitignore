@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.apk
+*.log
+build/
+.gradle/
+dist/
+local.properties
+credlens-settings.json
+session.pcap
+*.pcap
+!test.pcap
+.DS_Store
