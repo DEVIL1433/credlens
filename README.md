@@ -1,6 +1,6 @@
 # CredLens — See the traffic. Detect the exposure.
 
-![CredLens logo](img/logo.png)
+<img src="img/logo.png" alt="CredLens logo" width="240">
 
 **CredLens** is a passive network credential-leak detector for Windows, Linux, and Android.
 It watches traffic on your own network and surfaces leaked credentials in plain words —
